@@ -10,6 +10,7 @@ public class HelloGit {
 		
 		//3. addMaster
 		System.out.println("3_Add_Master");
+		System.out.println("4_FINISH");
 	}
 
 }
