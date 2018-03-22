@@ -7,6 +7,9 @@ public class HelloGit {
 		
 		//2. hot_fix_00에서의 커밋
 		System.out.println("2_hotfix_commit");
+		
+		//3. addMaster
+		System.out.println("3_Add_Master");
 	}
 
 }
